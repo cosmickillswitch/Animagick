@@ -1,0 +1,17 @@
+{
+  "name": "Animath",
+  "short_name": "Animath",
+  "description": "Manim-style animations: maths, graphs, logic and set theory, shapes, stickers, a timeline with keyframes, and video export.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0B0B10",
+  "theme_color": "#0B0B10",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"},
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
